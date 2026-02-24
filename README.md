@@ -29,4 +29,7 @@ For IP/IT Class 47B concrete, which the predefined mix scenarios all include, ai
 
 If you want to run the predefined mix scenarios to see what the results are, run the sixth code cell. 
 
-Scenario 3 is what a typical class 47B mix design looks like
+Scenario 1 is a typical Class 47BD composition, a type of concrete used in applications such as bridge decking
+Scenario 2 is a typical Class SF composition, a concrete mix that includes silica fume as cementious material
+Scenario 3 is a typical Class 47B composition, this would be the typical mix design used by NDOT for their projects
+Scenario 4 is a Class 47B composition with a slightly reduced amount of fly ash, this is used in some NDOT applications
