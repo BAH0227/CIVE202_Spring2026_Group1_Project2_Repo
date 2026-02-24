@@ -23,7 +23,7 @@ This project will recreate the same logic that is used in the NDOT’s excel fil
 Copy the output, which will give you information on the weights of the aggregates based on the inputted requirements, and the amount of water that is necessary, depending on the type of mix you are trying to do, you can refer to the NDOT mix designs standards as seen in this document: 
 https://dot.nebraska.gov/media/g4qp4y0d/2017-specbook.pdf
 
-For IP/IT Class 47B concrete, which the predefined mix scenarios all include, air content will need to be between 6.0% - 9.0%, the maximum water-cement ratio is .45, and the total allowed amount of cementious materials is 564lbs for a 1 cubic yard mix scenario with a acceptable range of total aggregate weight of 2,850 to 3,150lbs a cubic yard, refer to section 1001
+For IP/IT Class 47B concrete, air content will need to be between 6.0% - 9.0%, the maximum water-cement ratio is .45, and the total allowed amount of cementious materials is 564lbs for a 1 cubic yard mix scenario with a acceptable range of total aggregate weight of 2,850 to 3,150lbs a cubic yard with a 30% coarse and a 70% fine split, refer to section 1002 for additional information on what is required
 
 **Optional:**
 
