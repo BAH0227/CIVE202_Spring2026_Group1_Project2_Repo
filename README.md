@@ -1,4 +1,8 @@
 # CIVE202_Spring2026_Group1_Project2_Repo
+
+**Authors:**
+Bryce Ripley, Brock Hoover, Ryan Kramer
+
 Repository for CIVE 202 Spring 2026 Group 1 Project 2
 
 The goal of this project is to automate the Nebraska Department of Transportation’s (NDOT) concrete mix design workflow by translating the existing Excel‑based “Mix Design” worksheet into a functional Python program. This process was done improve factors such as reliability, transparency, and repeatability of their concrete mix design process by moving away from the manual spreadsheet calculations and instead have them in a fully code driven system with inputs and outputs calculated automatically. 
